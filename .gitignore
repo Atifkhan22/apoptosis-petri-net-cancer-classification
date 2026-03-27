@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary / system
+.virtual_documents/
+*.tmp
+
+# Anaconda / environments
+anaconda_projects/
+
+# Random system folders
+d4778869-*/
+
+LUAD_NORMAL_RAW/
+LUAD_TUMOR_RAW/
+gdc_download_*/
+
+
+*.csv
+
